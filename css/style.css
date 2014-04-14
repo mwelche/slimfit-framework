@@ -12,6 +12,11 @@ body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height:1.6rem;
 }
+input, textarea {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:100%;
+	line-height:1.6rem;
+}
 ul {
 	margin-bottom:.5rem;
 }
